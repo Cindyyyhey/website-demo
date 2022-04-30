@@ -7,6 +7,6 @@ This is markdown
 
 ## I can include headers
 
-<img src = "img/img.jpg>
+<img src = "~/Desktop/STA379/Lab/website-demo/666.jpg>
 
 I can include <i> html</i>
